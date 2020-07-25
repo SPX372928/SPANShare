@@ -1,4 +1,7 @@
 					链接							密码				文件
+https://pan.baidu.com/s/13i1DjqT1yar_vLdFP2PnAQ				TheFatRat & Laura Brehm - We'll Meet Again/
+															├── 01. We'll Meet Again.flac
+															└── 02. We'll Meet Again (Instrumental).flac
 https://pan.baidu.com/s/1K6d4x-2VU-20mMhtUwiaPg				西游记续.Journey.to.the.West.Sequel/
 															├── 西游记续.Journey.to.the.West.Sequel.2000.EP01.师徒生二心.1080p.WEBRip.AAC.H264-SPX.mp4
 															├── 西游记续.Journey.to.the.West.Sequel.2000.EP02.真假美猴王.1080p.WEBRip.AAC.H264-SPX.mp4
@@ -4660,6 +4663,9 @@ https://pan.baidu.com/s/1VLqK0eG6s35zC-Mc-7qj3w				Laura Brehm/
 															├── TheFatRat - The Calling/
 															│   ├── 01 - The Calling (feat. Laura Brehm).flac
 															│   └── 02 - The Calling (Instrumental).flac
+															├── TheFatRat & Laura Brehm - We'll Meet Again/
+															│	├── 01. We'll Meet Again.flac
+															│	└── 02. We'll Meet Again (Instrumental).flac
 															├── AK - Falling (feat. Brenton Mattheus & Laura Brehm).flac
 															├── Anevo - Universe (feat. Laura Brehm).flac
 															├── Anna Yvette & Laura Brehm - Summer Never Ends co-prod by F.O.O.L.flac
