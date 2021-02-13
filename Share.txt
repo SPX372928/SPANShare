@@ -1,4 +1,8 @@
 					链接							密码				文件	[大小]
+https://pan.baidu.com/s/1eJx30IhT2qWWMjL2Cq5dLw				工作细胞 (中配)/	{CCTV-6电影频道2021.02.13起每周六少儿影院五集连播}
+															├── 工作细胞.S01E01-03.DUAL.CHINESE.1080p.HDTV.2LC.HEVC-SPX.mkv	[2.72G]
+															└── 工作细胞.S01E04-05.DUAL.CHINESE.1080p.HDTV.2LC.HEVC-SPX.mkv	[2.02G]
+https://pan.baidu.com/s/1aO_22d-JWtaLCaiZNZVuOA				Абрикоса - Влюбилась в друга.flac	[10M]
 https://pan.baidu.com/s/1xDfZF1DyNNotlWyRYP0Irg				Will Sparks - Next Generation (Gareth Emery Remix).flac	[29M]
 https://pan.baidu.com/s/1p1FnEsP3zbT-84t03b1TwQ				Axel Johansson - Wonderland.flac	[24M]
 https://pan.baidu.com/s/1ss0xpfSG23aHP2KWAokcqQ				Claris - Fight!!.flac	[27M]
@@ -191,7 +195,7 @@ https://pan.baidu.com/s/1EIS7mUobT6OedLT-e24h8g				大盛魁/ {片源来自爱�
 															├── 大盛魁.EP12.WEBRip.1080p.2LC.HEVC-SPX.mp4	[467M]
 															├── 大盛魁.EP13.WEBRip.1080p.2LC.HEVC-SPX.mp4	[446M]
 															├── 大盛魁.EP14.WEBRip.1080p.2LC.HEVC-SPX.mp4	[476M]
-															├── 大盛魁.EP15.WEBRip.1080p.2LC.HEVC-SPX.mp4	[480M]
+															├── 大盛魁.EP15.REPACK.WEBRip.1080p.2LC.HEVC-SPX.mp4	[491M]	{修复卡顿}
 															├── 大盛魁.EP16.WEBRip.1080p.2LC.HEVC-SPX.mp4	[490M]
 															├── 大盛魁.EP17.WEBRip.1080p.2LC.HEVC-SPX.mp4	[455M]
 															├── 大盛魁.EP18.WEBRip.1080p.2LC.HEVC-SPX.mp4	[460M]
