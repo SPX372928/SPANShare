@@ -1,4 +1,8 @@
 					链接							密码				文件	[大小]	标准码
+https://pan.baidu.com/s/1Uep3Q78uRdZ6mMNaJKsWig		1234	Axel Johansson - Love How It Hurts (feat. Tina Stachowiak).flac	[23M]	标准码:	4663ACA3C4D04202490A178F43FCAAE2#1BF7B4EC16F361A58FB03DD4BDCEAC24#24313988#Axel Johansson - Love How It Hurts (feat. Tina Stachowiak).flac
+Dead Link													黑寡妇.Black.Widow.2021.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv	[2.51G]	标准码:	DDB7EBF38726CECCFD51FAA9F05349EE#598C5CB9C5A09C757E2535094DB26578#2691074294#黑寡妇.Black.Widow.2021.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+https://pan.baidu.com/s/1C6i69JqL9fsTcURVqvuEXA		1234	Dexter King & Danyka Nadeau - Unbroken.flac	[43M]	标准码:	12BDB7686A4C86FD0F4DCC18CB39CFBE#C5403E215A8A6F383CC48D357B89E564#45187167#Dexter King & Danyka Nadeau - Unbroken.flac
+https://pan.baidu.com/s/1V6MdeW76QQ4UtGr2NNMJCw		1234	Laura Brehm - All That Is.flac	[23M]	标准码:	4EC7472E744061453DBA5417D7860787#BAA6BB60CD948CA9457D483BD1AFB1F4#24167827#Laura Brehm - All That Is.flac
 https://pan.baidu.com/s/1ryQ-8t_EnZwPw_m2nn0IyQ		1234	Armin van Buuren & Jorn Van Deynhoven - Lost In Space.flac	[25M]	标准码:	CEF9685508DBA774363DD074087D66FF#B779F236801537E9189808639DC85C1F#26018876#Armin van Buuren & Jorn Van Deynhoven - Lost In Space.flac
 https://pan.baidu.com/s/1ywcZqnGFMNFVv4XikVxnPQ		1234	Darren Styles & Ashley Wallbridge - All My Life (feat. Gavin Beach).flac	[26M]	标准码:	E6E02D752F31BD57BEDC6BFBCF782B88#2EFD26EF80AF18EA3C49092EFB1863C0#27149828#Darren Styles & Ashley Wallbridge - All My Life (feat. Gavin Beach).flac
 https://pan.baidu.com/s/1eYDjFcy_ERHF9nEiwwMMyA		1234	Armin van Buuren & DubVision - I Should Be Loving You (feat. YOU).flac	[24M]	标准码:	2A50A01D9477C749478824039FED8C3C#8DC56FFDE0245B40395E7EA688C05F48#25673438#Armin van Buuren & DubVision - I Should Be Loving You (feat. YOU).flac
@@ -3463,29 +3467,29 @@ https://pan.baidu.com/s/1RDwLwtlhpc7yxWklnegthg				Vexento/
 															│   └── 11. Yuki.flac
 															├── Low Quality AAC/
 															│   ├── Classics 2014 - 2015/
-															│	├── 01 Return of the Heroes.m4a
-															│	├── 02 Anesthesia.m4a
-															│	├── 03 Another Life.m4a
-															│	├── 04 Capurganá.m4a
-															│	├── 05 Climb.m4a
-															│	├── 06 Corallium.m4a
-															│	├── 07 Cruisin'.m4a
-															│	├── 08 Game Over.m4a
-															│	├── 09 Glad To See You.m4a
-															│	├── 10 Good Old Memories.m4a
-															│	├── 11 Killing Machine.m4a
-															│	├── 12 Lonely Dance.m4a
-															│	├── 13 Particles.m4a
-															│	├── 14 Pegasus.m4a
-															│	├── 15 Pollen.m4a
-															│	├── 16 Revenge.m4a
-															│	├── 17 Sign From Above.m4a
-															│	├── 18 Silhouettes.m4a
-															│	├── 19 Spread Your Wings.m4a
-															│	├── 20 Still Standing.m4a
-															│	├── 21 Sudden Urge.m4a
-															│	├── 22 Syndrome.m4a
-															│	└── 23 Travelin'.m4a
+															│   │   ├── 01 Return of the Heroes.m4a
+															│   │   ├── 02 Anesthesia.m4a
+															│   │   ├── 03 Another Life.m4a
+															│   │   ├── 04 Capurganá.m4a
+															│   │   ├── 05 Climb.m4a
+															│   │   ├── 06 Corallium.m4a
+															│   │   ├── 07 Cruisin'.m4a
+															│   │   ├── 08 Game Over.m4a
+															│   │   ├── 09 Glad To See You.m4a
+															│   │   ├── 10 Good Old Memories.m4a
+															│   │   ├── 11 Killing Machine.m4a
+															│   │   ├── 12 Lonely Dance.m4a
+															│   │   ├── 13 Particles.m4a
+															│   │   ├── 14 Pegasus.m4a
+															│   │   ├── 15 Pollen.m4a
+															│   │   ├── 16 Revenge.m4a
+															│   │   ├── 17 Sign From Above.m4a
+															│   │   ├── 18 Silhouettes.m4a
+															│   │   ├── 19 Spread Your Wings.m4a
+															│   │   ├── 20 Still Standing.m4a
+															│   │   ├── 21 Sudden Urge.m4a
+															│   │   ├── 22 Syndrome.m4a
+															│   │   └── 23 Travelin'.m4a
 															│   ├── 01 Abstract Reality.m4a
 															│   ├── 01 Across The Ocean.m4a
 															│   ├── 01 Affectus.m4a
@@ -3581,7 +3585,7 @@ https://pan.baidu.com/s/1RDwLwtlhpc7yxWklnegthg				Vexento/
 															├── Vexento - Ascend.flac
 															├── Vexento - Bedroom Adventure.flac
 															├── Vexento - Flare.flac
-															├── Vexento - Sad Robot.flac
+															├── Vexento - Happy Robot.flac
 															├── Vexento - Masked Raver.flac
 															├── Vexento - Sad Robot.flac
 															└── Vexento - Sakura.flac
@@ -4131,71 +4135,6 @@ https://pan.baidu.com/s/1Oq5Ls57kVNm8b8K8KRXInQ				Monstercat - Best of 2019/
 															└── 40. Trivecta - Riptide (feat. Amidy & RØRY).flac
 https://pan.baidu.com/s/1TC2pq_iwq8CHmZSXHco6GQ				MIKA - Popular Song (feat. Ariana Grande).flac
 https://pan.baidu.com/s/1jWw_jql-knz6oHly_ym8MQ				Mike Perry - One Life.flac
-https://pan.baidu.com/s/1x6jtyZ-ww8wCbmvBN7gE6w				Lindsey Stirling Brave Enough Tour @ Frankfurt/
-															├── H264 VT/
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Crystallize.MP4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Elements.MP4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Gavis Song.MP4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Hold my Heart.MP4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Lost Girls.MP4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Loves Just a Feeling.MP4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Mini Set Something Wild.MP4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Mirage.MP4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Prism.MP4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Roundtable Rival Dont Let this Feeling Fade.mp4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Shatter Me.MP4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Stars Align.mp4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt The Arena.mp4.jpg
-															│   ├── Lindsey Stirling Brave Enough Tour Frankfurt The Phoenix.mp4.jpg
-															│   └── Lindsey Stirling Brave Enough Tour Frankfurt Those Days.mp4.jpg
-															├── HEVC ReEncoded/
-															│   ├── Crystallize - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── Elements -  - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── Gavi's Song - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── Hold my Heart - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── Lost Girls - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── Love's Just a Feeling - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── Mini Set Something Wild - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── Mirage - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── Prism - Lindsey Stirling Brave Enough Tour @ Frankfurt Prism.mkv
-															│   ├── Roundtable Rival Don't Let this Feeling Fade - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── Shatter Me - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── Stars Align - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── The Arena - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   ├── The Phoenix - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															│   └── Those Days - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv
-															├── HEVC VT/
-															│   ├── Crystallize - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── Elements -  - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── Gavi's Song - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── Hold my Heart - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── Lost Girls - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── Love's Just a Feeling - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── Mini Set Something Wild - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── Mirage - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── Prism - Lindsey Stirling Brave Enough Tour @ Frankfurt Prism.mkv.jpg
-															│   ├── Roundtable Rival Don't Let this Feeling Fade - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── Shatter Me - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── Stars Align - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── The Arena - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   ├── The Phoenix - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															│   └── Those Days - Lindsey Stirling Brave Enough Tour @ Frankfurt.mkv.jpg
-															└── Originals/
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Crystallize.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Elements.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Gavis Song.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Hold my Heart.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Lost Girls.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Loves Just a Feeling.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Mini Set Something Wild.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Mirage.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Prism.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Roundtable Rival Dont Let this Feeling Fade.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Shatter Me.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt Stars Align.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt The Arena.MP4
-																├── Lindsey Stirling Brave Enough Tour Frankfurt The Phoenix.MP4
-																└── Lindsey Stirling Brave Enough Tour Frankfurt Those Days.MP4
 https://pan.baidu.com/s/1DRexinXkJulB8MAcRfWtdQ				多文件/
 															├── NERDHEAD - BRAVE HEART feat. Nishino Kana (1440x1080 MPEG2 M-ON! HD).mpg
 															└── NERDHEAD - BRAVE HEART feat. Nishino Kana [AAC HDTV 1080p HEVC-SPX].mp4
@@ -4422,7 +4361,7 @@ https://pan.baidu.com/s/18BqHmRaDlv31hk49fpaEEw				Kasbo - I Get You.flac
 https://pan.baidu.com/s/14D2JicR33vR6fq3JQNTwGg				Sigala - Lullaby (feat. Paloma Faith).flac
 https://pan.baidu.com/s/1DtmLmyQU0dDr4wGv3_m4sQ				Tritonal - Shivohum (feat. Henry Dark).flac
 https://pan.baidu.com/s/1tANMo9HKArU9D_z6quHCRw				This Century - Slow Dance Night.flac
-https://pan.baidu.com/s/1lZOQBHjjs7bOxH_T5KiFLw				龙王子.The.Dragon.Prince/
+https://pan.baidu.com/s/1lZOQBHjjs7bOxH_T5KiFLw				龙王子.The.Dragon.Prince/	{https://pan.baidu.com/s/1PfeZfaxQ-tiSgy-oYFJprQ or https://pan.baidu.com/s/15yF2MEyVA3KviBjqr71W1g}
 															├── S01/
 															│   ├── The.Dragon.Prince.S01E01.Echoes.of.Thunder.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
 															│   ├── The.Dragon.Prince.S01E02.What.Is.Done.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
@@ -4470,7 +4409,7 @@ https://pan.baidu.com/s/1OuafnVeUSKh80LVyElFoLw				Matteo - Panama/
 															├── 02. Panama (TJO Remix).flac
 															├── 03. Panama (Zukie Remix).flac
 															└── 04. Panama (Instrumental Version).flac
-https://pan.baidu.com/s/1_ffF93wlNX8zUmJDMnqIwQ				不列颠尼亚.Britannia/
+https://pan.baidu.com/s/1_ffF93wlNX8zUmJDMnqIwQ				不列颠尼亚.Britannia/	{https://pan.baidu.com/s/1CEwf8E-SpDQQMCBWt7Ea2Q}
 															├── S01/
 															│   ├── Britannia.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
 															│   ├── Britannia.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
@@ -7173,37 +7112,6 @@ https://pan.baidu.com/s/1EOKMvLSnRND0fblgE_-fOg				Armin van Buuren vs Shapov - 
 https://pan.baidu.com/s/1BGL-PpEcWZpl0zeK_HVPfg				上戏18届胡欢臻毕业作品：隐.2018.720p.WEBRip.2LC.HEVC-SPX.mkv
 https://pan.baidu.com/s/1HPj-C_SCE0s8MLOV0mA_MQ				Omnia & Ben Gold (A.K.A. FUTURECODE) feat. Roxanne Emery - Dancing In The Rain.flac
 https://pan.baidu.com/s/1afgBVqeg5vTk2WtqqmmEkQ				Alex Sonata, Solis & Sean Truby - Universal.flac
-https://pan.baidu.com/s/15yF2MEyVA3KviBjqr71W1g				龙王子.The.Dragon.Prince/
-															├── S01/
-															│   ├── The.Dragon.Prince.S01E01.Echoes.of.Thunder.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E02.What.Is.Done.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E03.Moonrise.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E04.Bloodthirsty.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E05.An.Empty.Throne.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E06.Through.the.Ice.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E07.The.Dagger.and.the.Wolf.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E08.Cursed.Caldera.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   └── The.Dragon.Prince.S01E09.Wonderstorm.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															├── S02/
-															│   ├── The.Dragon.Prince.S02E01.A.Secret.and.a.Spark.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E02.Half.Moon.Lies.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E03.Smoke.and.Mirrors.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E04.Voyage.of.the.Ruthless.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E05.Breaking.the.Seal.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E06.Heart.of.a.Titan.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E07.Fire.and.Fury.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E08.The.Book.of.Destiny.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   └── The.Dragon.Prince.S02E09.Breathe.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															└── S03/
-																├── The.Dragon.Prince.S03E01.Sol.Regem.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E02.The.Crown.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E03.Ghost.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E04.The.Midnight.Desert.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E05.Heroes.and.Masterminds.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E06.Thunderfall.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E07.Hearts.of.Cinder.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E08.Dragonguard.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																└── The.Dragon.Prince.S03E09.The.Final.Battle.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
 https://pan.baidu.com/s/1p7XhmdI8EcjvC5o1u6sA7Q				Namewee黃明志 ft. Boon Hui Lu文慧如【不想放開 Never Give Up】[4K VP9 OPUS-SPX].webm
 https://pan.baidu.com/s/1sTmuLVHxnnLrkLWnvf4o1Q				USA vs China vs India - Everything Compared (1970-2017) [4K 60FPS VP9 OPUS-SPX].webm
 https://pan.baidu.com/s/1BNN0uK5XXJ5NbgvRqMACxw				190330 Sunflower - Post Malone _ Swae Lee - Jasmine Clarke.mp4
@@ -7536,7 +7444,7 @@ Dead Link													Hamilton (Original Broadway Cast Recording)/
 https://pan.baidu.com/s/1QRnL_sp-swY_EVTbToxUCg				NERDHEAD feat. 西野カナ - BRAVE HEART [AAC-WEB-720p-IEM].mkv
 https://pan.baidu.com/s/1vRvzqag327z-2Ei_j9U5Pg				Alyssa Reid - Tomorrow - Official Lyric Video.mp4
 https://pan.baidu.com/s/1N1A6oTGhjmj5d6eePkP96w				卓别林.Chaplin.1992.720p.BrRip.2HE.HEVC-SPX.mkv
-https://pan.baidu.com/s/15J6MlLtae5cdspL6xMb6PA				新宿事件.Shinjuku.Incident.2009.720p.BrRip.2HE.HEVC-SPX.mkv
+Dead Forever												新宿事件.Shinjuku.Incident.2009.720p.BrRip.2HE.HEVC-SPX.mkv
 https://pan.baidu.com/s/1Y3zi4wqfRCLEVg4D4yCk6w				致所有我曾爱过的男孩.To.All.the.Boys.I've.Loved.Before.2018.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
 https://pan.baidu.com/s/103fTnxR87A9fWEpSXJKbDQ				181013 BANG BANG - Jessie J, Ariana Grande, Nicki Minaj Cover - Jasmine Clarke.mp4
 https://pan.baidu.com/s/1ns5fJbBLsx-flMKZrxrB3g				初音ミク 10th Anniversary「SNOW MIKU LIVE! 2018」(WOWOW LIVE 2018.03.09) [AAC 1080p 10Bit HEVC-SPX].mkv
@@ -7549,37 +7457,6 @@ https://pan.baidu.com/s/1lzl2VQcRzxHOtwJJ3s7ofg				有你陪伴的日子-中国�
 https://pan.baidu.com/s/1vnGPMAkoVvegRbDquhAclA				多文件/
 															├── 灿烂人生(下).The.Best.of.Youth.2003.Part2.720p.BrRip.HEVC-SPX.mkv
 															└── 灿烂人生(上).The.Best.of.Youth.2003.Part1.720p.BrRip.HEVC-SPX.mkv
-https://pan.baidu.com/s/1PfeZfaxQ-tiSgy-oYFJprQ				龙王子.The.Dragon.Prince/
-															├── S01/
-															│   ├── The.Dragon.Prince.S01E01.Echoes.of.Thunder.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E02.What.Is.Done.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E03.Moonrise.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E04.Bloodthirsty.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E05.An.Empty.Throne.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E06.Through.the.Ice.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E07.The.Dagger.and.the.Wolf.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S01E08.Cursed.Caldera.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   └── The.Dragon.Prince.S01E09.Wonderstorm.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															├── S02/
-															│   ├── The.Dragon.Prince.S02E01.A.Secret.and.a.Spark.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E02.Half.Moon.Lies.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E03.Smoke.and.Mirrors.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E04.Voyage.of.the.Ruthless.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E05.Breaking.the.Seal.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E06.Heart.of.a.Titan.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E07.Fire.and.Fury.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── The.Dragon.Prince.S02E08.The.Book.of.Destiny.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   └── The.Dragon.Prince.S02E09.Breathe.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-															└── S03/
-																├── The.Dragon.Prince.S03E01.Sol.Regem.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E02.The.Crown.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E03.Ghost.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E04.The.Midnight.Desert.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E05.Heroes.and.Masterminds.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E06.Thunderfall.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E07.Hearts.of.Cinder.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── The.Dragon.Prince.S03E08.Dragonguard.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-																└── The.Dragon.Prince.S03E09.The.Final.Battle.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
 https://pan.baidu.com/s/1_HTYxnuka9A6i61IeprnwQ				铁拳.Iron.Fist/
 															├── S01/
 															│   ├── Iron.Fist.S01E01.Snow.Gives.Way.RERIP.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
@@ -7686,7 +7563,7 @@ https://pan.baidu.com/s/1JSqzZmzpScpQNYiwldfo-w				180817 숀 (SHAUN) - Way Back
 https://pan.baidu.com/s/1SMQ5JFU_3oBMGTVN2F8Jbg				180728 Ariana Grande - God is a woman (Jasmine Clarke Cover) [1080p VP9 OPUS-SPX].mkv
 https://pan.baidu.com/s/1DI2OAa4qOxnLs07etdX3gA				stacey.dooley.face.to.face.with.!5!5.2018.720p.hdtv.hevc.x265.rmteam.mkv
 https://pan.baidu.com/s/1oPCFo1zZu-YikjRNioHdoA				gi.jews.jewish.americans.in.world.war.ii.2017.720p.hdtv.hevc.x265.rmteam.mkv
-https://pan.baidu.com/s/1-0wH6XkBN99T0mIbpADG6g				大群.Legion {人都看疯了 不更了}/
+https://pan.baidu.com/s/1-0wH6XkBN99T0mIbpADG6g				大群.Legion {人都看疯了 不更了}/	{https://pan.baidu.com/s/1c17lsOw}
 															├── S01/
 															│   ├── Legion.S01E01.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv
 															│   ├── Legion.S01E02.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv
@@ -8190,28 +8067,6 @@ https://pan.baidu.com/s/1Hdfe3tJqUIBYb6xzbWnQmw				Trollhunters/
 																└── Trollhunters.S03E13.The.Eternal.Knight.Pt.2.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
 https://pan.baidu.com/s/1L0WBjATD7Op4LBPs4saEIw				小偷.The.Thief.1997.720p.DVDrip.x265.HEVC.PoOlLa.mkv
 https://pan.baidu.com/s/1qDJWQpj2pMXxpRnyIelzHg				这个男人来自地球：全新纪.The.Man.from.Earth.Holocene.2017.720p.BrRip.2CH.x265.HEVC-PSA.mkv
-https://pan.baidu.com/s/1CEwf8E-SpDQQMCBWt7Ea2Q				不列颠尼亚.Britannia/
-															├── S01/
-															│   ├── Britannia.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   └── Britannia.S01E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															└── S02 E-sub/
-																├── Britannia.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																└── Britannia.S02E10.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
 https://pan.baidu.com/s/1cbKm3NJZMviB63jzLVZZhQ				印式英语.English.Vinglish.2012.720p.BrRip.HEVC-SPX.mkv
 https://pan.baidu.com/s/1JKJx8g50xPP_QEgX1bY_Bg				小羊肖恩.Shaun.the.Sheep.Movie.2015.720p.BrRip.2CH.x265.HEVC-PSA.mkv
 https://pan.baidu.com/s/1IyIfv4h6YNP3ZZoHcmr16w				逃离地球.Escape.from.Planet.Earth.2013,720p.10Bit.BluRay.6CH.HEVC-SPX.mkv
@@ -9142,27 +8997,6 @@ https://pan.baidu.com/s/1i5Qom6D			野蛮人崛起.Barbarians.Rising/
 											├── barbarians.rising.part2.rebellion.720p.hdtv.hevc.x265.rmteam.mkv
 											├── barbarians.rising.part3.revenge.720p.hdtv.hevc.x265.rmteam.mkv
 											└── barbarians.rising.part4.ruin.720p.hdtv.hevc.x265.rmteam.mkv
-https://pan.baidu.com/s/1c17lsOw			大群.Legion {不更了}/
-											├── S01/
-											│   ├── Legion.S01E01.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv
-											│   ├── Legion.S01E02.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv
-											│   ├── Legion.S01E03.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv
-											│   ├── Legion.S01E04.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv
-											│   ├── Legion.S01E05.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv
-											│   ├── Legion.S01E06.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv
-											│   ├── Legion.S01E07.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv
-											│   └── Legion.S01E08.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv
-											└── S02/
-												├── Legion.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-												├── Legion.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-												├── Legion.S02E03.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-												├── Legion.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-												├── Legion.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-												├── Legion.S02E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-												├── Legion.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-												├── Legion.S02E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-												├── Legion.S02E10.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-												└── Legion.S02E11.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
 https://pan.baidu.com/s/1gfnIBar			UMF 上海/
 											├── Armin Van Buuren @ Ultra Music Festival China 2017.mkv
 											├── Ultra Music Festival China 2017 - Day 2 - 1080p HD - 10Sep2017.mp4
@@ -9634,7 +9468,7 @@ https://pan.baidu.com/s/1b1GYkA		0508	Perfect - Ed Sheeran (Tiffany Alvord & Che
 											├── 01 Perfect .mp3
 											├── 2000.jpg
 											└── Perfect - Ed Sheeran (Tiffany Alvord & Chester See Cover).mkv
-https://pan.baidu.com/s/1kV5I5Dl	HEVC	Lindsey Stirling Brave Enough Tour @ Frankfurt/
+https://pan.baidu.com/s/1kV5I5Dl	HEVC	Lindsey Stirling Brave Enough Tour @ Frankfurt/	{https://pan.baidu.com/s/1x6jtyZ-ww8wCbmvBN7gE6w}
 											├── H264 VT/
 											│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Crystallize.MP4.jpg
 											│   ├── Lindsey Stirling Brave Enough Tour Frankfurt Elements.MP4.jpg
