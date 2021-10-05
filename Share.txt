@@ -1,4 +1,7 @@
 					链接							密码				文件	[大小]	标准码
+https://pan.baidu.com/s/1QxJH06QbVO8u0b_hhH1umg		1234	Foria - Break Away.flac	[32.17M]	标准码:	B9838017E117828F8115645D4B1AB1D5#C349DC9708651B360E17D823093BD471#33737428#Foria - Break Away.flac
+https://pan.baidu.com/s/1yP_vjLROF2VJsHPp-foGsQ		1234	Framing.Britney.Spears.2021.1080p.WEBRip.2HE.HEVC-SPX.mkv	[907.4M]	标准码:	E7CEDECF1EFB43C602B496B5C88181A2#9A6D0F1D8F2BEAF9FCD91F3EDB960968#951480743#Framing.Britney.Spears.2021.1080p.WEBRip.2HE.HEVC-SPX.mkv
+Dead Link													Framing.Britney.Spears.2021.1080p.HULU.WEBRip.DDP5.1.x264-NOGROUP.mkv	[2.62G]	标准码:	A9E6C0045E3536887227280BFF6983ED#D9C7EC4FE65A44FAF1610B3315DA2D7C#2815252098#Framing.Britney.Spears.2021.1080p.HULU.WEBRip.DDP5.1.x264-NOGROUP.mkv
 https://pan.baidu.com/s/1vrYLFNpuftydRPJ4jbi7BA		1234	Clarx & Harddope - Castle.flac	[19.11M]	标准码:	118516C7B8CFD067D34D2D43824CE6B2#97919A761A81C453BB85FC81BE691E85#20040917#Clarx & Harddope - Castle.flac
 https://pan.baidu.com/s/1dAGiwqzt_CLRW2UM577gTA		1234	Maddix - Superheroes.flac	[20.5M]	标准码:	d9949d231862be9665f26031d5e5ec36#a219053bc7ff0a5a7ac0192281f8f735#21450870#Maddix - Superheroes.flac
 https://pan.baidu.com/s/1UP-Lc0m1flTeGQmVZ7Y0rA		1234	Brian.Regan.The.Epitome.of.Hyperbole.2008.720p.10Bit.WEBRip.2HE.HEVC-SPX.mkv	[188.59M]	标准码:	2381D44F2EAEAD56E7AF09EA9BD3D970#BB752FA903779A10CBB5CA63ED46C242#197755924#Brian.Regan.The.Epitome.of.Hyperbole.2008.720p.10Bit.WEBRip.2HE.HEVC-SPX.mkv
@@ -4852,7 +4855,7 @@ https://pan.baidu.com/s/12d3ci3KwqbeRBd9RqaTdUQ				Shy Martin - Make Us Never Ha
 https://pan.baidu.com/s/1vVG9DYoWg8q1XqqoNAhh-A				多文件/
 															├── 林俊杰 JJ Lin 《Wonderland》 Official Music Video.webm
 															└── 林俊杰 JJ Lin 《Wonderland》 Official Music Video [1080p 10Bit OPUS HEVC-SPX].mkv
-https://pan.baidu.com/s/13knrrs-BGB6AjR_yKSFYKA				Ducktales/
+https://pan.baidu.com/s/13knrrs-BGB6AjR_yKSFYKA				Ducktales/	{不更了}
 															├── S01/
 															│   ├── ducktales.2017.s01e01.woo.oo.720p.web.dl.hevc.x265.rmteam.mkv
 															│   ├── ducktales.2017.s01e02.daytrip.of.doom.720p.webrip.hevc.x265.rmteam.mkv
