@@ -1,4 +1,5 @@
 					链接							密码				文件	[大小]	标准码
+https://pan.baidu.com/s/1FNrkXCASC8UcEm2y0bqh6g		1234	ARMNHMR - Saving Lives (feat. Bella Renee).flac	[31.86M]	标准码:	29B8879D810A20AE962941DC6E800355#61FBE9742136E4029E8D54791898B4B5#33404733#ARMNHMR - Saving Lives (feat. Bella Renee).flac
 https://pan.baidu.com/s/1HjnyKx_fWYtMvjxJaEdxGw		1234	MaxRiven - Astronomia.flac	[19.28M]	标准码:	914D5B54AE21172ECB401E664DFC31BE#D30D85202DEC978ADF7F52C683F8EFF6#20211568#MaxRiven - Astronomia.flac
 https://pan.baidu.com/s/1_3R1B8KysATVTWY23CBSQQ		1234	尚气与十环传奇.Shang-Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv	[2.20G]	标准码:	946806EBDB1378F20B182D586581A915#71E80D25B27D408F7B03DDBBFCBE9AE5#2367543115#尚气与十环传奇.Shang-Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv
 https://pan.baidu.com/s/1qrvbijBcsqCTk2Hj5OnUBQ		1234	多文件
@@ -4997,26 +4998,35 @@ https://pan.baidu.com/s/1OuafnVeUSKh80LVyElFoLw				Matteo - Panama/
 															└── 04. Panama (Instrumental Version).flac
 https://pan.baidu.com/s/1_ffF93wlNX8zUmJDMnqIwQ				不列颠尼亚.Britannia/	{https://pan.baidu.com/s/1CEwf8E-SpDQQMCBWt7Ea2Q}
 															├── S01/
-															│   ├── Britannia.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   ├── Britannia.S01E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															│   └── Britannia.S01E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-															└── S02 E-sub/
-																├── Britannia.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																├── Britannia.S02E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-																└── Britannia.S02E10.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[479.2M]	标准码:	8493a52c650a57db2a0bf429e7c87720#f0224a62061d7ed02388372a8c98f8cd#502436845#/不列颠尼亚.Britannia/S01/Britannia.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[459.2M]	标准码:	fe0b58b4ee615137c836ec15eb3b75f2#793b0b9be44bc1334e6972ee94a8b3bc#481480931#/不列颠尼亚.Britannia/S01/Britannia.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S01E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[346.2M]	标准码:	bdb7e6849626d0f23d375439dae6d50c#cdf2262e76a3dae24a915b1888a91fd1#363011794#/不列颠尼亚.Britannia/S01/Britannia.S01E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[286.6M]	标准码:	d477f5609372871e982fe5e993b1f807#4075a5ed4b7ee51dcf51208b0c1b77aa#300550217#/不列颠尼亚.Britannia/S01/Britannia.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S01E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[248.4M]	标准码:	46146d4ec59e12b3821d79a6af3f1f07#abaacd1ea7685a320a5f39fda21eaac7#260475855#/不列颠尼亚.Britannia/S01/Britannia.S01E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S01E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[271.8M]	标准码:	fdacd5eb6b8fe770cbc510aea2e6965c#0a90e7df022f403bcb49841292a15763#285016815#/不列颠尼亚.Britannia/S01/Britannia.S01E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S01E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[221.1M]	标准码:	0312656356079e3bf2f52b3ac2df1e46#fbad8185fd478c394f674a4f7eda97ea#231892568#/不列颠尼亚.Britannia/S01/Britannia.S01E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S01E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[281.8M]	标准码:	506d490e3f5069e30bc95ca6dd459405#e6ce42e23b07480bba51e8675c1b2b02#295489177#/不列颠尼亚.Britannia/S01/Britannia.S01E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   └── Britannia.S01E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[313.8M]	标准码:	300d2e645eda3f46563d0e30027c4e27#57adc5f10673c5816ec566647ef9a402#329056889#/不列颠尼亚.Britannia/S01/Britannia.S01E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															├── S02 E-sub/
+															│   ├── Britannia.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[205.5M]	标准码:	7b58459af4b80ee4d81587484e957da8#e7d8e274ce0c504ae2d09efd244b61fe#215462886#/不列颠尼亚.Britannia/S02 E-sub/Britannia.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[208.5M]	标准码:	86a9f921fc1fa992d19b5225b68c1a29#4f94d84a056b193f49d511b3a245ee70#218644246#/不列颠尼亚.Britannia/S02 E-sub/Britannia.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[223M]	标准码:	2f38ab983f756351847741a70a861d02#a2aa9395e81c790343b5b21d272ec4fb#233814920#/不列颠尼亚.Britannia/S02 E-sub/Britannia.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[217.5M]	标准码:	0584311f048b70914e058cd7cadb1304#ed55257c68cb8db82c00f646b523ecda#228100451#/不列颠尼亚.Britannia/S02 E-sub/Britannia.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[224.9M]	标准码:	24fbafcde99df17984671aa17967850d#29da7b94e123fb45a68b0268ed424d69#235847650#/不列颠尼亚.Britannia/S02 E-sub/Britannia.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S02E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[210.3M]	标准码:	e0c6f368ca24f5508a21b375cd60e5fc#6318345833754390d2fd6cb5e0a43370#220537353#/不列颠尼亚.Britannia/S02 E-sub/Britannia.S02E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S02E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[216.9M]	标准码:	65fb110dc1dc01db6aff1ffd89540fc4#5c693ebd1b684dc7e8fce3cb27c0e1d9#227427219#/不列颠尼亚.Britannia/S02 E-sub/Britannia.S02E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[213.5M]	标准码:	5186d789f51668d43bcd06c41cfa6646#b174ff58c1b9f2d82f196adf3444206a#223902483#/不列颠尼亚.Britannia/S02 E-sub/Britannia.S02E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   ├── Britannia.S02E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[225.1M]	标准码:	e359e068d271fd3fcbb93d58bc7734fd#9383d31392cb393f40146ed00e02449a#236009840#/不列颠尼亚.Britannia/S02 E-sub/Britannia.S02E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															│   └── Britannia.S02E10.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[220.9M]	标准码:	ff0e80aa23feda5a03c3ed3e3493e71c#cb4ddc14dc615bd46faa44d813a63b53#231650511#/不列颠尼亚.Britannia/S02 E-sub/Britannia.S02E10.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+															└── S03 E-sub/
+																├── Britannia.S03E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[190.6M]	标准码:	fd63ff90ba5042b8451030cc05167989#08bfe721acaccd323230282f5bc84b5e#199860462#/不列颠尼亚.Britannia/S03 E-sub/Britannia.S03E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+																├── Britannia.S03E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[206.4M]	标准码:	f9861a20637df7b1c99af441af6b72e2#551598c72667c9013ea0a137f3a14762#216405892#/不列颠尼亚.Britannia/S03 E-sub/Britannia.S03E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+																├── Britannia.S03E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[219.2M]	标准码:	99362d63711206eb1d4fa851999e8af4#72475c3d822c8b3151a6b50d33013919#229894326#/不列颠尼亚.Britannia/S03 E-sub/Britannia.S03E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+																├── Britannia.S03E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[215.8M]	标准码:	1548f6f5b30948722d2b5e9bd6f2bad6#acef5aa5f85f9353fc9d2ea075a4e7fa#226286219#/不列颠尼亚.Britannia/S03 E-sub/Britannia.S03E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+																├── Britannia.S03E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[269.8M]	标准码:	9067cee3feb8598d91bb408a43f60fe0#4f1779cb593690be784265db1ba25d1b#282933041#/不列颠尼亚.Britannia/S03 E-sub/Britannia.S03E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+																├── Britannia.S03E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[209.8M]	标准码:	4817b3a7bb4666e081743968516a5237#847844f2a5ec77f2c8e5541b1e1960b1#220030760#/不列颠尼亚.Britannia/S03 E-sub/Britannia.S03E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+																├── Britannia.S03E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[206.7M]	标准码:	ca86559633d4e44c883a1cbd2de7c4da#a235dcfeecec954acfb909193f4717ad#216721927#/不列颠尼亚.Britannia/S03 E-sub/Britannia.S03E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+																└── Britannia.S03E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv	[258.2M]	标准码:	e48fe96ada2b1eb4143a2953a733fe7a#bf8a1715738b455fdbde959658315540#270762525#/不列颠尼亚.Britannia/S03 E-sub/Britannia.S03E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
 https://pan.baidu.com/s/11vLAo_e5xOQxJlWIfN1pug				Gryffin, Slander, Johan Lindbrandt & Robin Stjernberg - All You Need To Know (feat. Calle Lehmann) [Acoustic].flac等
 https://pan.baidu.com/s/1LyLl7wx764TN0Dhmn4D70A				Askjell - To Be Loved/
 															├── 01. The First Goodbye.flac
